@@ -147,9 +147,9 @@
           },
           "configurations": {
             "production": {
-              "project": "projects/ng-select2/ng-package.prod.json"
-            ,              "tsConfig": "projects/ng-select2/tsconfig.lib.prod.json"
-}
+              "project": "projects/ng-select2/ng-package.prod.json",
+              "tsConfig": "projects/ng-select2/tsconfig.lib.prod.json"
+            }
           }
         },
         "test": {
@@ -175,5 +175,8 @@
       }
     }
   },
-  "defaultProject": "ng-select2"
+  "defaultProject": "ng-select2",
+  "cli": {
+    "analytics": false
+  }
 }
