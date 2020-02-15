@@ -10,10 +10,9 @@
     "select2",
     "angular8"
   ],
-  "author": "Muhammad Arsal Abdullah <muhammadarsal.mail@gmail.com>",
+  "author": "Pavan Jadda",
   "contributors": [
-    "Muhammad Arsal Abdullah <muhammadarsal.mail@gmail.com>",
-    "Stijn Goethals <stijn@tealpartners.com>"
+    "Muhammad Arsal Abdullah <muhammadarsal.mail@gmail.com>"
   ],
   "license": "MIT",
   "peerDependencies": {
